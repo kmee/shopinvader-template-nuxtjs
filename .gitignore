@@ -11,3 +11,4 @@ models/index.ts
 models/originals.ts
 services/index.ts
 services/originals.ts
+.env
